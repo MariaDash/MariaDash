@@ -37,7 +37,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MariaDash)](https://git.io/streak-stats)
 [![MariaDash's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariaDash)](https://github.com/MariaDash/github-readme-stats)
 ![](https://komarev.com/ghpvc/?username=MariaDash)
-[![MariaDash's github activity graph](https://activity-graph.herokuapp.com/graph?username=MariaDash)](https://github.com/MariaDash/github-readme-activity-graph)
+
 
 <!--
 **MariaDash/MariaDash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
