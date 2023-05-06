@@ -33,6 +33,51 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+
+
+
+
+![Web Testing](https://img.shields.io/badge/Web%20Testing-3867a2?style=for-the-badge&logo=Web&logoColor=white)
+![DevTools](https://img.shields.io/badge/DEVTOOLS-fcc525?style=for-the-badge&logo=DEVTOOLS&logoColor=white)
+![Testing Theory](https://img.shields.io/badge/Testing%20Theory-674ea7?style=for-the-badge&logo=Testing-Theory&logoColor=white)
+![Atlassian_Confluence](https://img.shields.io/badge/-atlassian-FF6C37?style=for-the-badge&logo=atlassian&logoColor=white)
+![Atlassian_Jira](https://img.shields.io/badge/-Jira-095fda?style=for-the-badge&logo=Jira&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-e53e31.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Miro](https://img.shields.io/badge/MIRO-ffba00?style=for-the-badge&logo=MIRO&logoColor=white)
+![YouTrack](https://img.shields.io/badge/YouTrack-ff318c?style=for-the-badge&logo=YouTrack&logoColor=white)
+![Yandex Tracker](https://img.shields.io/badge/Yandex%20Tracker-5ca5f8?style=for-the-badge&logo=YandexTracker&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-095fda.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![Sitechco](https://img.shields.io/badge/-sitechco-FF6C37?style=for-the-badge&logo=sitechco&logoColor=white)
+![Qase.io](https://img.shields.io/badge/-Qase.io-%23000000?style=for-the-badge&logoColor=47C5FB)
+![GoogleSheets](https://img.shields.io/badge/Google%20Sheets-188038?style=for-the-badge&logo=Google-Sheets&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-188038?style=for-the-badge&logo=Microsoft%20Excel&logoColor=white)
+![API Testing](https://img.shields.io/badge/API%20Testing-%23000000?style=for-the-badge&logo=API&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![SOAP_UI](https://img.shields.io/badge/-SOAP-5ca5f8?style=for-the-badge&logo=SOAP&logoColor=47C5FB)
+![Mobile Testing](https://img.shields.io/badge/Mobile%20Testing-a1ab26?style=for-the-badge&logo=Mobile&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3ae180.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![Charles](https://img.shields.io/badge/CHARLES-d3dade?style=for-the-badge&logo=CHARLES&logoColor=white)
+![DBeaver](https://img.shields.io/badge/-DBeaver-fcc525?style=for-the-badge&logo=DBeaver&logoColor=47C5FB)
+![Client server](https://img.shields.io/badge/Client%20Server-a25aff?style=for-the-badge&logo=Client-Server&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-ed1c24?style=for-the-badge&logo=SQL&logoColor=47C5FB)
+![Postgres](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/git-80b3ff.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitBash](https://img.shields.io/badge/-Git%20Bash-674ea7?style=for-the-badge&logo=Git%20Bash&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-fcc525?style=for-the-badge&logo=HTML&logoColor=47C5FB)
+![CSS](https://img.shields.io/badge/-CSS-%23316192?style=for-the-badge&logo=CSS&logoColor=47C5FB)
+![JMeter](https://img.shields.io/badge/-JMeter-095fda?style=for-the-badge&logo=JMeter&logoColor=white)
+![Windows](https://img.shields.io/badge/-windows-fcc525?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-3ae180?style=for-the-badge&logo=Linux&logoColor=white)
+![Работа_в_команде](https://img.shields.io/badge/-Работа_в_команде-fcc525?style=for-the-badge&logoColor=47C5FB)
+![Навыки обучения](https://img.shields.io/badge/-Навыки_обучения-3ae180?style=for-the-badge&logoColor=47C5FB)
+
+
+
+
+
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=MariaDash)](https://github.com/MariaDash/github-profile-trophy)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MariaDash)](https://git.io/streak-stats)
 [![MariaDash's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariaDash)](https://github.com/MariaDash/github-readme-stats)
