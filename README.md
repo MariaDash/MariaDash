@@ -16,7 +16,7 @@
                      ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
                      ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
                      ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
-- 😄 Pronouns: my name is pronounced: [ma'riya 'daʃkova]
+- 😄 My name is pronounced: [ma'riya 'daʃkova]
 
 - ⚡ Fun fact: ...
 - My skills: ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
