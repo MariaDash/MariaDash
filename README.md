@@ -62,6 +62,9 @@
 [![MariaDash's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariaDash)](https://github.com/MariaDash/github-readme-stats)
 ![](https://komarev.com/ghpvc/?username=MariaDash)
 
+My fresh achievements:
+![Linux/Gitbash/Terminal](https://drive.google.com/file/d/1q__0u4CojxadbEYevQ264gogPSVHDHhL/view?usp=sharing)
+![Git/Github](https://drive.google.com/file/d/1WAMupgr0U63N06d7T9kmrBswWxorZGB5/view?usp=sharing)
 
 <!--
 **MariaDash/MariaDash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
