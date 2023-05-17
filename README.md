@@ -63,6 +63,7 @@
 ![](https://komarev.com/ghpvc/?username=MariaDash)
 
 My fresh achievements:
+
 ![Linux/Gitbash/Terminal](https://drive.google.com/file/d/1q__0u4CojxadbEYevQ264gogPSVHDHhL/view?usp=sharing)
 ![Git/Github](https://drive.google.com/file/d/1WAMupgr0U63N06d7T9kmrBswWxorZGB5/view?usp=sharing)
 
