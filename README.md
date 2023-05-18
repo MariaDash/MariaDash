@@ -64,8 +64,8 @@
 
 My fresh achievements:
 
-![Linux/Gitbash/Terminal](https://drive.google.com/file/d/1q__0u4CojxadbEYevQ264gogPSVHDHhL/view?usp=sharing)
-![Git/Github](https://drive.google.com/file/d/1WAMupgr0U63N06d7T9kmrBswWxorZGB5/view?usp=sharing)
+![Linux/Gitbash/Terminal](https://github.com/MariaDash/MariaDash/blob/main/Mariia%20Dashkova_Terminal.png)
+![Git/Github]([https://drive.google.com/file/d/1WAMupgr0U63N06d7T9kmrBswWxorZGB5/view?usp=sharing](https://github.com/MariaDash/MariaDash/blob/main/Mariia%20Dashkova_Git.png))
 
 <!--
 **MariaDash/MariaDash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
