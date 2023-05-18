@@ -62,7 +62,7 @@
 [![MariaDash's GitHub stats](https://github-readme-stats.vercel.app/api?username=MariaDash)](https://github.com/MariaDash/github-readme-stats)
 ![](https://komarev.com/ghpvc/?username=MariaDash)
 
-My fresh achievements:
+# My fresh achievements:
 
 ![Linux/Gitbash/Terminal](https://github.com/MariaDash/MariaDash/blob/main/Mariia%20Dashkova_Terminal.png)
 ![Git/Github](https://github.com/MariaDash/MariaDash/blob/main/Mariia%20Dashkova_Git.png)
