@@ -6,7 +6,7 @@
 
 - 🔭 I’m regularly working with this github account and push my fresh achievements of studing
 
-- 💬 Ask me about Linux, Git and SQL
+- 💬 Ask me about Linux, Git, Postman and SQL
 
 - 🤔 I’m looking for help with ...
 
