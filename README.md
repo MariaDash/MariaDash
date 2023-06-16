@@ -66,7 +66,7 @@
 
 ![Linux/Gitbash/Terminal](https://github.com/MariaDash/MariaDash/blob/main/Mariia%20Dashkova_Terminal.png)
 ![Git/Github](https://github.com/MariaDash/MariaDash/blob/main/Mariia%20Dashkova_Git.png)
-
+![Postman](https://github.com/MariaDash/MariaDash/blob/main/Mariia%20Dashkova_Postman.png)
 <!--
 **MariaDash/MariaDash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
