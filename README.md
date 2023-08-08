@@ -66,7 +66,7 @@
 ![](https://komarev.com/ghpvc/?username=MariaDash)
 
 # My fresh achievements:
-![Certificate of complection a course](}
+![Certificate of complection a course](https://github.com/MariaDash/MariaDash/blob/main/Mariia%20Dashkova%20certificate%20of%20completion.jpg)
 ![Linux/Gitbash/Terminal](https://github.com/MariaDash/MariaDash/blob/main/Mariia%20Dashkova_Terminal.png)
 ![Git/Github](https://github.com/MariaDash/MariaDash/blob/main/Mariia%20Dashkova_Git.png)
 ![Postman](https://github.com/MariaDash/MariaDash/blob/main/Mariia%20Dashkova_Postman.png)
