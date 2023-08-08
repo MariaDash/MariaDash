@@ -21,7 +21,7 @@
 - ⚡ Fun fact: ...
 - My skills:
 
-![SKILLS](https://github.com/MariaDash/MariaDash/blob/main/Technical%20Skills.png)
+![SKILLS]()
 
 
 -
