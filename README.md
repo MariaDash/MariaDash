@@ -6,22 +6,23 @@
 
 - 🔭 I’m regularly working with this github account and push my fresh achievements of studing
 
-- 💬 Ask me about Linux, Git, Postman and SQL
+- 💬 Ask me about Linux, Git, Postman, SQL, Client-server-architecture, Android Studio, Charles Proxy and Fiddler and ADB
 
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with Jenkins
 
-- 📫 How to reach me: ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-                     ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-                      ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-                     ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-                     ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-                     ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
+- 📫 How to reach me: by   [![email](https://github.com/MariaDash/MariaDash/blob/main/download.svg)](mailto:mdashkova11@gmail.com)  or [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-dashkova) 
+ [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mariya_dash) 
+ [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/79105293285)
+                     
 - 😄 My name is pronounced: [ma'rija 'daʃkova]
 
 - ⚡ Fun fact: ...
 - My skills:
 
 ![SKILLS](https://github.com/MariaDash/MariaDash/blob/main/Technical%20Skills.png)
+![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
