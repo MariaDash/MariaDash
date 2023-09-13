@@ -19,7 +19,7 @@
 - ⚡ Fun fact: ...
 - My skills:
 
-![SKILLS](https://github.com/MariaDash/MariaDash/blob/main/Technical%20Skills.png)
+![SKILLS](https://github.com/MariaDash/MariaDash/blob/main/Technical%20Skills1.png)
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
