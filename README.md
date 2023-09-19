@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://mariadash.github.io/" target _blank>Mariia Dashkova</a> 
+<h1 align="center">Hi there, I'm <a href="https://mariadash.github.io/" target __blank>Mariia Dashkova</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">QA_Quality Assurance_QA Engineer</h3>
 
