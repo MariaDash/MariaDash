@@ -75,12 +75,7 @@
  <a href="https://github.com/MariaDash/MariaDash/blob/main/Mariia%20Dashkova_CLS.png" target="_blank" rel="noreferrer"><img src="https://github.com/MariaDash/MariaDash/blob/main/Mariia%20Dashkova_CLS.png" alt="CLS" width="150"></a>
  <a href="https://github.com/MariaDash/MariaDash/blob/main/Mariia%20Dashkova_SQL.png" target="_blank" rel="noreferrer"><img src="https://github.com/MariaDash/MariaDash/blob/main/Mariia%20Dashkova_SQL.png" alt="SQL" width="150"></a>
 </div>
-![Certificate of complection a course](https://github.com/MariaDash/MariaDash/blob/main/Mariia%20Dashkova%20certificate%20of%20completion.jpg)
-![Linux/Gitbash/Terminal](https://github.com/MariaDash/MariaDash/blob/main/Mariia%20Dashkova_Terminal.png)
-![Git/Github](https://github.com/MariaDash/MariaDash/blob/main/Mariia%20Dashkova_Git.png)
-![Postman](https://github.com/MariaDash/MariaDash/blob/main/Mariia%20Dashkova_Postman.png)
-![CLS](https://github.com/MariaDash/MariaDash/blob/main/Mariia%20Dashkova_CLS.png)
-![SQL](https://github.com/MariaDash/MariaDash/blob/main/Mariia%20Dashkova_SQL.png)
+
 <!--
 **MariaDash/MariaDash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
