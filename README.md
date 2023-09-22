@@ -67,6 +67,14 @@
 ![](https://komarev.com/ghpvc/?username=MariaDash)
 
 # My fresh achievements:
+<div>
+<a href="https://github.com/MariaDash/MariaDash/blob/main/Mariia%20Dashkova%20certificate%20of%20completion.jpg" target="_blank" rel="noreferrer"><img src="https://github.com/MariaDash/MariaDash/blob/main/Mariia%20Dashkova%20certificate%20of%20completion.jpg" alt="Certificate of complection a course" width="150"></a>
+<a href="https://github.com/MariaDash/MariaDash/blob/main/Mariia%20Dashkova_Terminal.png" target="_blank" rel="noreferrer"><img src="https://github.com/MariaDash/MariaDash/blob/main/Mariia%20Dashkova_Terminal.png" alt="Linux/Gitbash/Terminal" width="150"></a>
+<a href="https://github.com/MariaDash/MariaDash/blob/main/Mariia%20Dashkova_Git.png" target="_blank" rel="noreferrer"><img src="https://github.com/MariaDash/MariaDash/blob/main/Mariia%20Dashkova_Git.png" alt="Git/Github" width="150"></a>
+<a href="https://github.com/MariaDash/MariaDash/blob/main/Mariia%20Dashkova_Postman.png" target="_blank" rel="noreferrer"><img src="https://github.com/MariaDash/MariaDash/blob/main/Mariia%20Dashkova_Postman.png" alt="Postman" width="150"></a>
+ <a href="https://github.com/MariaDash/MariaDash/blob/main/Mariia%20Dashkova_CLS.png" target="_blank" rel="noreferrer"><img src="https://github.com/MariaDash/MariaDash/blob/main/Mariia%20Dashkova_CLS.png" alt="CLS" width="150"></a>
+ <a href="https://github.com/MariaDash/MariaDash/blob/main/Mariia%20Dashkova_SQL.png" target="_blank" rel="noreferrer"><img src="https://github.com/MariaDash/MariaDash/blob/main/Mariia%20Dashkova_SQL.png" alt="SQL" width="150"></a>
+</div>
 ![Certificate of complection a course](https://github.com/MariaDash/MariaDash/blob/main/Mariia%20Dashkova%20certificate%20of%20completion.jpg)
 ![Linux/Gitbash/Terminal](https://github.com/MariaDash/MariaDash/blob/main/Mariia%20Dashkova_Terminal.png)
 ![Git/Github](https://github.com/MariaDash/MariaDash/blob/main/Mariia%20Dashkova_Git.png)
