@@ -2,11 +2,11 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">QA_Quality Assurance_QA Engineer</h3>
 
-- 🌱 I’m currently learning Software Testing 
+- 🌱 I’m currently learning JavaScript and Python
 
-- 🔭 I’m regularly working with this github account and push my fresh achievements of studing
+- 🔭 I’m regularly working with this GitHub account and push my fresh achievements of studing
 
-- 💬 Ask me about Linux, Git, Postman, SQL, Client-server-architecture, Android Studio, Charles Proxy and Fiddler and ADB
+- 💬 Ask me about Linux, Git, Postman, SQL, Client-server-architecture, Android Studio, Charles Proxy, Fiddler and ADB
 
 - 🤔 I’m looking for help with Jenkins
 
@@ -77,15 +77,7 @@
 </div>
 
 <!--
-**MariaDash/MariaDash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 
-- 📫 How to reach me: ...
 
 -->
