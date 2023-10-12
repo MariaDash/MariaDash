@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">QA_Quality Assurance_QA Engineer</h3>
 
-- 🌱 I’m currently learning JavaScript and Python
+- 🌱 I’m currently learning JavaScript, Python, Jenkins, Docker, Server Logs, Redis
 
 - 🔭 I’m regularly working with this GitHub account and push my fresh achievements of studing
 
