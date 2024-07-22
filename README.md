@@ -74,6 +74,7 @@
 <a href="https://github.com/MariaDash/MariaDash/blob/main/Mariia%20Dashkova_Postman.png" target="_blank" rel="noreferrer"><img src="https://github.com/MariaDash/MariaDash/blob/main/Mariia%20Dashkova_Postman.png" alt="Postman" width="150"></a>
  <a href="https://github.com/MariaDash/MariaDash/blob/main/Mariia%20Dashkova_CLS.png" target="_blank" rel="noreferrer"><img src="https://github.com/MariaDash/MariaDash/blob/main/Mariia%20Dashkova_CLS.png" alt="CLS" width="150"></a>
  <a href="https://github.com/MariaDash/MariaDash/blob/main/Mariia%20Dashkova_SQL.png" target="_blank" rel="noreferrer"><img src="https://github.com/MariaDash/MariaDash/blob/main/Mariia%20Dashkova_SQL.png" alt="SQL" width="150"></a>
+ <a href="https://github.com/MariaDash/MariaDash/blob/main/Mariia%20Dashkova_SQL.png" target="_blank" rel="noreferrer"><img src="https://github.com/MariaDash/MariaDash/blob/main/Mariia%20Dashkova_Mobile.png" alt="Mobile" width="150"></a>
 </div>
 
 <!--
